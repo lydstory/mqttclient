@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -fPIC    -shared -Wl,-soname,libmosquittopp.so.1 -o CMakeFiles/CMakeRelink.dir/libmosquittopp.so.0.0.1 CMakeFiles/libmosquittopp.dir/mosquittopp.cpp.o  -L/home/lyd/bluez/mqttclient/3rdparty/libmosquitto ../libmosquitto.so.0.0.1 -lssl -lcrypto -lpthread -lrt -Wl,-rpath,/usr/local/lib 
